@@ -1,0 +1,6 @@
+﻿  Function.cpp
+C:\Users\vklet\source\repos\podzemn\podzemn\Function.cpp(40,20): warning C4018: <: несоответствие типов со знаком и без знака
+  podzemn.cpp
+  Создание кода...
+C:\Users\vklet\source\repos\podzemn\podzemn\Function.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+  podzemn.vcxproj -> C:\Users\vklet\source\repos\podzemn\Debug\podzemn.exe

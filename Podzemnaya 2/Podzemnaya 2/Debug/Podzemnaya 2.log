@@ -1,0 +1,6 @@
+﻿Source.obj : error LNK2005: "double __cdecl Analitich_P(double,double,double,double)" (?Analitich_P@@YANNNNN@Z) уже определен в Podzemnaya 2.obj
+Source.obj : error LNK2005: "double __cdecl f(double,double,double,double)" (?f@@YANNNNN@Z) уже определен в Podzemnaya 2.obj
+Source.obj : error LNK2005: "int __cdecl progonka_3d(class std::vector<double,class std::allocator<double> > const &,class std::vector<double,class std::allocator<double> > const &,class std::vector<double,class std::allocator<double> > const &,class std::vector<double,class std::allocator<double> > const &,class std::vector<double,class std::allocator<double> > &,int)" (?progonka_3d@@YAHABV?$vector@NV?$allocator@N@std@@@std@@000AAV12@H@Z) уже определен в Podzemnaya 2.obj
+Source.obj : error LNK2005: "void __cdecl vvodDan(double &,double &,double &,double &,double &)" (?vvodDan@@YAXAAN0000@Z) уже определен в Podzemnaya 2.obj
+Source.obj : error LNK2005: "void __cdecl vvodNachDan(double &,double &,double &,int)" (?vvodNachDan@@YAXAAN00H@Z) уже определен в Podzemnaya 2.obj
+C:\Users\vklet\source\repos\Podzemnaya 2\Debug\Podzemnaya 2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
